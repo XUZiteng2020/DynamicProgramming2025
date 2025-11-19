@@ -42,7 +42,7 @@ function p = define_parameters_ag_saving()
     % The number of grid points
     p.I = 500;
 
-%% GRID PARAMETERS FOR INTEREST RATES
+%% Grid parameters for interest rate
 
     p.rmin = -0.05;
     p.rmax = 0.04;
